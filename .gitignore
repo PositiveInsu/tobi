@@ -3,6 +3,7 @@
 build/
 .idea/
 !gradle/wrapper/gradle-wrapper.jar
+!gradlew.bat
 
 ### STS ###
 .apt_generated
